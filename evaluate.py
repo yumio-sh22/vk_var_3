@@ -1,5 +1,3 @@
-"""Evaluate vector, full-text and hybrid retrieval on a small labelled test set."""
-
 from __future__ import annotations
 
 import math
