@@ -1,5 +1,3 @@
-"""Vector, full-text and hybrid (RRF) search over ingested PDF/DOCX chunks."""
-
 from __future__ import annotations
 
 import argparse
