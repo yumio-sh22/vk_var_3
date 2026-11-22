@@ -1,5 +1,3 @@
-"""Ingest PDF/DOCX files into PostgreSQL + pgvector using Ollama embeddings."""
-
 from __future__ import annotations
 
 import hashlib
