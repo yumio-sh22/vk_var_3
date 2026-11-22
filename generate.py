@@ -1,5 +1,3 @@
-"""Generate an answer from retrieved corporate-document chunks using Ollama."""
-
 from __future__ import annotations
 
 import argparse
